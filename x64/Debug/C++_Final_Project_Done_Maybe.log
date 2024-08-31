@@ -1,0 +1,10 @@
+﻿  City.cpp
+  Jewel.cpp
+  main.cpp
+C:\Users\ERich\OneDrive\Desktop\Everything\VisualCode\C++_Final_Project_Done_Maybe\main.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ERich\OneDrive\Desktop\Everything\VisualCode\C++_Final_Project_Done_Maybe\Robber.h(354,10): error C2079: 'foundP' uses undefined class 'Robber<int>::Police'
+C:\Users\ERich\OneDrive\Desktop\Everything\VisualCode\C++_Final_Project_Done_Maybe\Robber.h(182,31): message : while compiling class template member function 'void Robber<int>::move(City &)'
+C:\Users\ERich\OneDrive\Desktop\Everything\VisualCode\C++_Final_Project_Done_Maybe\main.cpp(35,14): message : see the first reference to 'Robber<int>::move' in 'main'
+C:\Users\ERich\OneDrive\Desktop\Everything\VisualCode\C++_Final_Project_Done_Maybe\main.cpp(27,14): message : see reference to class template instantiation 'Robber<int>' being compiled
+  Police.cpp
+  Generating Code...
